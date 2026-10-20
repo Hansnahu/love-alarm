@@ -1,0 +1,13 @@
+{
+  "name": "love-alarm-server",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Servidor de emparejamiento y alarma privada para Love Alarm (Katherine & Hans)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
